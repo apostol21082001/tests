@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\proiectDotNet\IDWebTEST\obj\Debug\netcoreapp3.1\IDWebTEST.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proiectDotNet\IDWebTEST\obj\Debug\netcoreapp3.1\IDWebTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proiectDotNet\IDWebTEST\obj\Debug\netcoreapp3.1\IDWebTEST.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proiectDotNet\IDWebTEST\obj\Debug\netcoreapp3.1\IDWebTEST.AssemblyInfo.cs
+C:\Users\User\Desktop\proiectDotNet\IDWebTEST\obj\Debug\netcoreapp3.1\IDWebTEST.csproj.CoreCompileInputs.cache

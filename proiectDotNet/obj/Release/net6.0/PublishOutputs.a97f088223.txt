@@ -1,0 +1,7 @@
+D:\sem 5\IDW\ProiectIDW\ProiectIDW\obj\Release\net6.0\PubTmp\Out\ProiectIDW.exe
+D:\sem 5\IDW\ProiectIDW\ProiectIDW\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\sem 5\IDW\ProiectIDW\ProiectIDW\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\sem 5\IDW\ProiectIDW\ProiectIDW\obj\Release\net6.0\PubTmp\Out\ProiectIDW.dll
+D:\sem 5\IDW\ProiectIDW\ProiectIDW\obj\Release\net6.0\PubTmp\Out\ProiectIDW.deps.json
+D:\sem 5\IDW\ProiectIDW\ProiectIDW\obj\Release\net6.0\PubTmp\Out\ProiectIDW.runtimeconfig.json
+D:\sem 5\IDW\ProiectIDW\ProiectIDW\obj\Release\net6.0\PubTmp\Out\ProiectIDW.pdb
